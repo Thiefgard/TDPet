@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f053af8fcded14f4b8db04dbea9dcbfe, type: 3}
+  m_Name: CanonTower
+  m_EditorClassIdentifier: Assembly-CSharp::UIWallType
+  Content: 0
+  TopButton: {fileID: 2829439924497556412, guid: 27507ddfd4da93b4398dfae8a8a49218, type: 3}
+  TopLeftButton: {fileID: 0}
+  TopRightButton: {fileID: 0}
+  DownRightButton: {fileID: 0}
+  DownLeftButton: {fileID: 0}
